@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JustinJames1980
+- 👋 Hi, I’m @TechnicalWriting4You
 - 👀 I’m interested in Software Communications
 - 🌱 I’m currently learning Software Technical Writing & User Assist. Javascript.
 - 💞️ I’m looking to collaborate on Web Apps, Mobile Apps, SDK, System Software, API & IOT
